@@ -3,6 +3,7 @@ from open_ai_interface.views import send_message
 from open_ai_interface.prompts import GET_RESPONSE_PROMPT
 import asyncio
 from aiohttp import web
+import settings
 
 
 app = web.Application()
@@ -38,4 +39,4 @@ app.router.add_get('/', render_index)
 
 
 if __name__ == "__main__":
-    web.run_app(app, host="localhost", port=8000)
+    web.run_app(app, host=settings.HOST, port=settings.PORT)

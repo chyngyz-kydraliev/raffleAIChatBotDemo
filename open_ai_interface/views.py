@@ -1,9 +1,9 @@
-from open_ai_interface import settings
+import settings
 from aiohttp import ClientSession
 
 
 headers = {
-    "Authorization": f"Bearer {settings.API_KEY}",
+    "Authorization": f"Bearer {settings.OPEN_AI_API_KEY}",
     "Content-Type": "application/json"
 }
 
@@ -21,7 +21,7 @@ async def send_message(prompt):
         "https://api.openai.com/v1/chat/completions",
         method="POST",
         data={
-            "model": settings.MODEL,
+            "model": settings.OPEN_AI_MODEL,
             "messages": [
                 {"role": "system", "content": prompt}
             ],

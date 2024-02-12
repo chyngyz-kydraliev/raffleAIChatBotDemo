@@ -1,2 +1,0 @@
-MODEL = "gpt-3.5-turbo"
-API_KEY = "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"

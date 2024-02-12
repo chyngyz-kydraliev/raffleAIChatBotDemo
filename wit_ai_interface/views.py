@@ -1,9 +1,9 @@
-from wit_ai_interface import settings
+import settings
 from actions_on_user_intents.text_responses import TEXT_RESPONSES
 import aiohttp
 
 headers = {
-    "Authorization": f"Bearer {settings.ACCESS_TOKEN}"
+    "Authorization": f"Bearer {settings.WIT_AI_ACCESS_TOKEN}"
 }
 
 async def get_user_intents(message_text):
