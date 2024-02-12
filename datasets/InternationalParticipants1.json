@@ -1,0 +1,102 @@
+[
+    {
+        "text":"Can non-citizens participate in the raffle?",
+        "intent":"InternationalParticipants",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any residency requirements to be eligible for the raffle?",
+        "intent":"InternationalParticipants",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I participate in the raffle if I'm not a resident of the country?",
+        "intent":"InternationalParticipants",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any restrictions based on my location?",
+        "intent":"InternationalParticipants",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I participate in the raffle if I'm currently residing abroad?",
+        "intent":"InternationalParticipants",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Is the raffle open to participants from other countries?",
+        "intent":"InternationalParticipants",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any special provisions for international participants in the raffle?",
+        "intent":"InternationalParticipants",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I participate in the raffle if I'm visiting the country temporarily?",
+        "intent":"InternationalParticipants",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any additional requirements for international participants in the raffle?",
+        "intent":"InternationalParticipants",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any restrictions on international participants winning prizes in the raffle?",
+        "intent":"InternationalParticipants",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "text":"What are the consequences of violating the raffle rules?",
+        "intent":"RuleViolationConsequences",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there penalties for breaking the rules of the raffle?",
+        "intent":"RuleViolationConsequences",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How are rule violations handled in the raffle?",
+        "intent":"RuleViolationConsequences",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can rule violations result in disqualification from the raffle?",
+        "intent":"RuleViolationConsequences",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there different levels of penalties for different rule violations?",
+        "intent":"RuleViolationConsequences",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Is there a warning system for minor rule violations?",
+        "intent":"RuleViolationConsequences",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any fines associated with rule violations in the raffle?",
+        "intent":"RuleViolationConsequences",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can rule violations lead to legal action?",
+        "intent":"RuleViolationConsequences",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any measures in place to prevent rule violations in the raffle?",
+        "intent":"RuleViolationConsequences",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How are rule violations reported and investigated in the raffle?",
+        "intent":"RuleViolationConsequences",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    }
+]

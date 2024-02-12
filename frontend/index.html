@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raffle AI Chat Bot Demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script> 
+</head>
+<body>
+
+    <style>
+        .chat-box__message {
+            padding: 10px;
+            margin: 10px;
+            border-radius: 5px;
+        }
+
+        .chat-box__message--bot {
+            text-align: left;
+            background-color: beige;
+        }
+
+        .chat-box__message--user {
+            text-align: right;
+            background-color: aliceblue;
+        }
+
+        .fa-robot {
+            font-size: 24px;
+            color: #007bff;
+        }
+
+        .bot-name {
+            font-weight: bold;
+            color: #6c757d;
+            margin-left: 10px;
+        }
+    </style>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <h1 class="text-center">Raffle AI Chat Bot Demo</h1>
+                <div class="card">
+                    <div class="card-body" id="chat-box">
+                        <div class="chat-box" id="chat-box">
+                            <div class="d-flex align-items-center">
+                                <i class="fas fa-robot mr-2"></i>
+                                <span class="bot-name">Raffle AI Consultant</span>
+                            </div>
+                            <div class="chat-box__message chat-box__message--bot">Hey, buddy, how I can help you?</div>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="message" placeholder="Type your message here...">
+                            <button class="btn btn-primary" id="send">Send</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        $(document).ready(function () {
+
+            let botMessageCounter = 1;
+
+            function animateBotMessage(textToRender, botMessageCounter) {
+                let i = 0;
+                let interval = setInterval(function () {
+                    if (i < textToRender.length) {
+                        $(`#message_${botMessageCounter}`).append(textToRender.charAt(i));
+                        i++;
+                    } else {
+                        clearInterval(interval);
+                    }
+                }, 20);
+            }
+
+            $('#send').click(function (event) {
+                event.preventDefault();
+                var message = $('#message').val();
+                console.log(`USER: ${message}`);
+                var payload_to_send = {
+                    "message_text": message
+                }
+                console.log(payload_to_send)
+                $('#chat-box').append(
+                    `<div class="chat-box__message chat-box__message--user">${message}</div>`
+                );
+                $.ajax({
+                    url: 'http://localhost:8000/chat',
+                    contentType: 'application/json',
+                    method: 'POST',
+                    data: JSON.stringify(payload_to_send),
+                    success: function (response) {
+                        let textToRender = response.response;
+                        console.log(`BOT: ${response}`);
+                        $('#chat-box').append(
+                            `
+                                <div class="d-flex align-items-center">
+                                    <i class="fas fa-robot mr-2"></i>
+                                    <span class="bot-name">Raffle AI Consultant</span>
+                                </div>
+                                <div class="chat-box__message chat-box__message--bot" id="message_${botMessageCounter}"></div>
+                            `
+                        )
+                        animateBotMessage(textToRender, botMessageCounter);
+                        botMessageCounter++;
+                    }
+                })
+            })
+        })
+    </script>
+</body>
+</html>

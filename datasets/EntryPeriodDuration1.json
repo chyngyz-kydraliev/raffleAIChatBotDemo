@@ -1,0 +1,102 @@
+[
+    {
+        "text":"How long is the entry period for the raffle?",
+        "intent":"EntryPeriodDuration",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I still enter the raffle after the entry period has ended?",
+        "intent":"EntryPeriodDuration",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"When does the entry period for the raffle close?",
+        "intent":"EntryPeriodDuration",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Is there a specific start date for the entry period?",
+        "intent":"EntryPeriodDuration",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Is there a specific end date for the entry period?",
+        "intent":"EntryPeriodDuration",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any limitations on the entry period duration?",
+        "intent":"EntryPeriodDuration",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can the entry period duration be extended?",
+        "intent":"EntryPeriodDuration",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Is the entry period the same for all participants?",
+        "intent":"EntryPeriodDuration",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How frequently are entry periods scheduled for the raffle?",
+        "intent":"EntryPeriodDuration",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any restrictions on when I can enter the raffle during the entry period?",
+        "intent":"EntryPeriodDuration",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    }
+]

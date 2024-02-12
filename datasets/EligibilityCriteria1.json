@@ -1,0 +1,102 @@
+[
+    {
+        "text":"What are the eligibility criteria for participating in the raffle?",
+        "intent":"EligibilityCriteria",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can employees of the organizing company participate in the raffle?",
+        "intent":"EligibilityCriteria",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Do I need to register in advance to be eligible for the raffle?",
+        "intent":"EligibilityCriteria",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can people with disabilities participate in the raffle?",
+        "intent":"EligibilityCriteria",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can minors participate in the raffle?",
+        "intent":"EligibilityCriteria",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can members of my family participate in the raffle?",
+        "intent":"EligibilityCriteria",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I participate in the raffle if I'm affiliated with a sponsor?",
+        "intent":"EligibilityCriteria",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I participate in the raffle if I'm a member of the organizing committee?",
+        "intent":"EligibilityCriteria",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I participate in the raffle if I'm currently serving a sentence?",
+        "intent":"EligibilityCriteria",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I participate in the raffle if I'm currently in a dispute with the organizers?",
+        "intent":"EligibilityCriteria",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    }
+]

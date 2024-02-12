@@ -1,0 +1,102 @@
+[
+    {
+        "text":"How many raffle tickets can I purchase?",
+        "intent":"TicketPurchaseLimit",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Is there a limit to the number of raffle tickets I can buy?",
+        "intent":"TicketPurchaseLimit",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I buy multiple raffle tickets?",
+        "intent":"TicketPurchaseLimit",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any restrictions on the maximum number of tickets per participant?",
+        "intent":"TicketPurchaseLimit",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any restrictions on the minimum number of tickets I can purchase?",
+        "intent":"TicketPurchaseLimit",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I purchase raffle tickets on behalf of others?",
+        "intent":"TicketPurchaseLimit",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Is there a limit to how often I can purchase raffle tickets?",
+        "intent":"TicketPurchaseLimit",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I purchase tickets for multiple raffle draws simultaneously?",
+        "intent":"TicketPurchaseLimit",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there different ticket purchase limits for different tiers of participation?",
+        "intent":"TicketPurchaseLimit",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I increase my ticket purchase limit by meeting certain criteria?",
+        "intent":"TicketPurchaseLimit",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    }
+]

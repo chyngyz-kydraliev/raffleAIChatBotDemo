@@ -1,0 +1,1002 @@
+[
+    {
+        "text":"What are the necessary steps to join the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you guide me through the process of becoming a participant in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Explain how I can participate in the raffle.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Tell me about the procedures for becoming a part of the lottery.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I start participating in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What actions do I need to take to enter the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you explain the steps required to participate in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm interested in participating in the lottery. What should I do first?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What do I need to do to become a participant in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Explain the process of joining the lottery, please.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Tell me about the steps involved in participating in the raffle.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How can I join the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What's the process for getting involved in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you walk me through the steps to participate in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to participate in the lottery. What are the steps?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I become a participant in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Tell me the steps for joining the lottery.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What's involved in participating in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Explain how I can enter the lottery.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you provide a step-by-step guide to participating in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What do I need to know to participate in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How can I enroll in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Tell me about the procedures for participation in the lottery.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I sign up for the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What are the steps to become a participant in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you explain the process of participating in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm interested in joining the raffle. What are the steps?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What do I need to do to get involved in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I take part in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Tell me the necessary steps to participate in the lottery.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What actions should I take to join the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How can I participate in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What are the steps to enroll in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you guide me on how to participate in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to become a participant in the raffle. What's the procedure?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Explain how I can join the lottery.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Tell me about the steps required for participation in the raffle.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What's the process for participation in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I register for the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you walk me through the participation steps for the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm interested in participating in the lottery. How do I start?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What do I need to do to enter the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Explain the steps to participate in the lottery, please.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Tell me how I can get involved in the raffle.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What steps should I follow to participate in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I get started with the lottery participation?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you explain the enrollment process for the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to be part of the lottery. What steps do I need to take?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What actions do I need to perform to participate in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How can I join the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Tell me the procedure for participation in the lottery.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What's the process for getting into the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I join the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you guide me through the steps for participation in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm interested in enrolling in the lottery. What should I do?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What do I need to know about participating in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Explain how I can sign up for the lottery.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Tell me about the steps I need to take to participate in the lottery.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What's the procedure for becoming a participant in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I become eligible to participate in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you explain the process of joining the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to participate in the raffle. What are the steps involved?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What do I need to do to participate in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Explain the steps required to join the raffle, please.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Tell me how to get involved in the raffle.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What steps should I follow to participate in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I begin participating in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you walk me through the steps to join the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm interested in joining the raffle. How do I proceed?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What are the steps to become a participant in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Tell me about the process for participation in the raffle.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I register to participate in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you explain the steps to enroll in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to join the lottery. What's the procedure?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What actions do I need to take to participate in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How can I get started with the lottery participation?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Explain the process of joining the lottery, please.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Tell me the necessary steps to participate in the raffle.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What do I need to know before participating in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I sign up to participate in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you provide a step-by-step guide for participating in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm interested in enrolling in the raffle. What steps do I need to take?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What are the steps to join the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Explain how I can participate in the lottery.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Tell me about the procedures for participation in the raffle.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I become a participant in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What's the process for participation in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you guide me through the steps for participating in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to become a participant in the raffle. How do I start?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What do I need to do to enter the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Explain the steps to participate in the lottery, please.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Tell me how I can get involved in the raffle.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What steps should I follow to participate in the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I get started with the lottery participation?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you explain the enrollment process for the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to be part of the lottery. What steps do I need to take?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What actions do I need to perform to participate in the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How can I join the raffle?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Tell me the procedure for participation in the lottery.",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What's the process for getting into the lottery?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    }
+]

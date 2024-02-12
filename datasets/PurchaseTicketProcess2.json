@@ -1,0 +1,363 @@
+[
+    {
+      "text": "Where can I purchase tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "How can I buy a ticket for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Tell me the process of buying a ticket for the raffle.",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "What steps do I take to purchase a ticket for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I'm interested in purchasing tickets for the raffle. Can you help?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "How do I participate in the lottery by buying tickets?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Explain the ticket purchasing process for the lottery, please.",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "What do I need to do to buy a lottery ticket?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I want to buy tickets for the raffle. How do I proceed?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "How can I acquire tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Tell me about the process of purchasing tickets for the raffle.",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "What steps are involved in buying tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I'd like to know how I can buy tickets for the raffle.",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Can you guide me through the process of purchasing raffle tickets?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "How do I go about purchasing a ticket for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I need help buying tickets for the raffle. Can you assist?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "What do I need to do to get a ticket for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I'd like to purchase tickets for the raffle. What's the process?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Can you explain how I can buy tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "What's the procedure for purchasing tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I want to participate in the lottery. How do I get tickets?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "How do I buy a ticket for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Tell me about the process of buying tickets for the raffle.",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I'd like to purchase a ticket for the raffle. What should I do?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "How can I obtain tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Can you guide me through the process of buying raffle tickets?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "How do I proceed to buy tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I'm interested in buying tickets for the raffle. What's the procedure?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I'd like to know how to purchase tickets for the raffle.",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "What's the process for buying tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Can you explain how to buy tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "How can I purchase tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Tell me how to buy tickets for the raffle.",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I'm interested in buying tickets for the raffle. What do I do?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "How do I get tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Can you guide me through the process of buying tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "What do I need to buy tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "How do I purchase tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Tell me the steps to buy tickets for the raffle.",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I'm interested in buying tickets for the raffle. Can you explain how?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "What's the procedure for purchasing a ticket for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "How can I get tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Can you explain how to purchase tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "What are the steps to purchase tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I'm interested in buying tickets for the raffle. How do I proceed?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "What's the process for buying a ticket for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "How do I go about getting tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Tell me how to purchase a ticket for the raffle.",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I want to buy tickets for the raffle. What should I do?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "How do I buy a ticket for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Tell me the process for buying tickets for the raffle.",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I'd like to purchase tickets for the raffle. What do I need to do?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Can you explain how to buy tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "What steps are involved in purchasing tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I'm interested in buying tickets for the raffle. How do I proceed?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "How do I buy tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Tell me about the process of purchasing tickets for the raffle.",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "I want to purchase tickets for the raffle. Can you explain the process?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "How do I get tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    },
+    {
+      "text": "Can you guide me through the process of buying tickets for the raffle?",
+      "intent": "PurchaseTicketProcess",
+      "entities": [],
+      "traits": []
+    }
+  ]
+  

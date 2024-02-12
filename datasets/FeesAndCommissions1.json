@@ -1,0 +1,102 @@
+[
+    {
+        "text":"Do I need to purchase something to be eligible for the raffle?",
+        "intent":"FeesAndCommissions",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Do I need to pay fees to enter the raffle?",
+        "intent":"FeesAndCommissions",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any commissions associated with participating in the raffle?",
+        "intent":"FeesAndCommissions",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Is there a cost to obtain raffle tickets?",
+        "intent":"FeesAndCommissions",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there different fee structures for different levels of participation in the raffle?",
+        "intent":"FeesAndCommissions",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any additional charges beyond the ticket price for participation?",
+        "intent":"FeesAndCommissions",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Do participants incur any transaction fees when purchasing raffle tickets?",
+        "intent":"FeesAndCommissions",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there discounts available for bulk purchases of raffle tickets?",
+        "intent":"FeesAndCommissions",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any hidden fees associated with participation in the raffle?",
+        "intent":"FeesAndCommissions",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How are fees and commissions handled in the raffle process?",
+        "intent":"FeesAndCommissions",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    }
+]

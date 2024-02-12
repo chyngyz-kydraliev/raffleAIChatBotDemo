@@ -1,0 +1,9 @@
+/venv
+__pycache__/
+*.pyc
+*.pyo
+*.yml
+draft*.py
+create_intents.py
+create_dataset.py
+raw_file

@@ -1,0 +1,1002 @@
+[
+    {
+        "text":"Can you help me enroll in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm interested in joining the lotto. What should I do?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I become a participant in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What steps should I take to enter the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you guide me through the process of getting into the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to participate in the lotto. How do I proceed?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How can I enroll in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What's the procedure for joining the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you explain how to get involved in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'd like to know more about becoming a part of the lotto. Any advice?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I join the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What's the process for signing up for the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you provide some guidance on how to participate in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm interested in enrolling in the lotto. Can you assist me?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How can I start participating in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What are the necessary steps to get in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to get in the lotto. What do I need to do?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you walk me through the steps of entering the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What actions should I take to participate in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I register for the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you explain the enrollment process for the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm considering joining the lotto. What steps do I need to take?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I enroll in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What do I need to know to participate in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you provide a step-by-step guide for participating in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm interested in becoming a participant in the lotto. Where do I start?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How can I get involved in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What are the steps for enrolling in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you explain the process of joining the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to be part of the lotto. What's the procedure?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I sign up to participate in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you guide me on how to participate in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to participate in the lotto. How do I get started?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What are the steps to enroll in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you provide some advice on participating in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I become eligible to participate in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm interested in joining the lotto. What's the process?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What do I need to do to participate in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you explain the steps to join the lotto, please?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm eager to enroll in the lotto. What should I do first?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How can I get in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What's involved in participating in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you provide some information on how to enroll in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to take part in the lotto. What steps do I need to take?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I enter the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you walk me through the enrollment steps for the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm interested in joining the lotto. What are the steps?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What's the process for participating in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I join the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you guide me through the lotto enrollment process?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'd like to participate in the lotto. What's the procedure?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What do I need to do to become a part of the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you explain how to enroll in the lotto in detail?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm considering enrolling in the lotto. Can you help me with the process?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I get started with the lotto enrollment?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you provide some tips on enrolling in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to join the lotto. What are the steps involved?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How can I participate in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What's the enrollment procedure for the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you explain the steps required to enroll in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm interested in the lotto. How do I sign up?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What are the enrollment requirements for the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I register for the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you provide some instructions on how to join the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'd like to know more about enrolling in the lotto. Can you help?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I get enrolled in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you guide me through the lotto enrollment?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to get involved in the lotto. What's the process?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I become a part of the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you explain the lotto enrollment process to me?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm interested in participating in the lotto. What should I do?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What are the steps for getting into the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How can I enroll in the lotto effectively?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you provide some insights into enrolling in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm eager to participate in the lotto. How do I begin?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What do I need to do to join the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you walk me through the steps of participating in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to enroll in the lotto. Can you explain how?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I join the lotto as a participant?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you provide some guidance on how to participate in the lotto successfully?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm interested in enrolling in the lotto. Can you give me some advice?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I get started with the lotto enrollment process?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you explain the lotto enrollment requirements?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to participate in the lotto. Where do I start?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What are the prerequisites for joining the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I enroll in the lotto to increase my chances of winning?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you provide some tips on enrolling in the lotto efficiently?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm considering participating in the lotto. What are the steps?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I get in the lotto effectively?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you provide some assistance with enrolling in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What are the enrollment criteria for the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I ensure successful enrollment in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you explain the lotto enrollment process step by step?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm interested in joining the lotto. Can you provide some instructions?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I navigate the enrollment process for the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you provide some advice on becoming a participant in the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I want to enroll in the lotto. Can you offer some guidance?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How do I participate in the lotto as efficiently as possible?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can you provide some recommendations on joining the lotto?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"I'm eager to join the lotto. What steps should I take to enroll?",
+        "intent":"ParticipationSteps",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    }
+]

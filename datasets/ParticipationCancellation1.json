@@ -1,0 +1,102 @@
+[
+    {
+        "text":"Can I cancel my participation in the raffle?",
+        "intent":"ParticipationCancellation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What is the process for canceling my participation in the raffle?",
+        "intent":"ParticipationCancellation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Is there a deadline for canceling participation in the raffle?",
+        "intent":"ParticipationCancellation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any penalties for canceling participation in the raffle?",
+        "intent":"ParticipationCancellation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I receive a refund if I cancel my participation in the raffle?",
+        "intent":"ParticipationCancellation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any restrictions on canceling participation in the raffle?",
+        "intent":"ParticipationCancellation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I cancel my participation after the raffle has started?",
+        "intent":"ParticipationCancellation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any consequences for canceling participation in the raffle?",
+        "intent":"ParticipationCancellation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Is there a formal procedure for canceling participation in the raffle?",
+        "intent":"ParticipationCancellation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any circumstances under which participation cannot be canceled in the raffle?",
+        "intent":"ParticipationCancellation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    }
+]

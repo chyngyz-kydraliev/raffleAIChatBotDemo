@@ -1,0 +1,102 @@
+[
+    {
+        "text":"What information do I need to provide to participate in the raffle?",
+        "intent":"RequiredInformation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any documents I need to submit to enter the raffle?",
+        "intent":"RequiredInformation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What personal information is required to participate in the raffle?",
+        "intent":"RequiredInformation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Do I need to provide identification to purchase raffle tickets?",
+        "intent":"RequiredInformation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Is there specific contact information required for participation in the raffle?",
+        "intent":"RequiredInformation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any prerequisites regarding residency or citizenship documentation?",
+        "intent":"RequiredInformation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Do I need to provide proof of age to participate in the raffle?",
+        "intent":"RequiredInformation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any additional forms or disclosures required for participation?",
+        "intent":"RequiredInformation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Is there specific information needed for prize distribution purposes?",
+        "intent":"RequiredInformation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any restrictions on the type of information I can provide for participation?",
+        "intent":"RequiredInformation",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    }
+]

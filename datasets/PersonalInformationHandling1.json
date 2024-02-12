@@ -1,0 +1,102 @@
+[
+    {
+        "text":"How is my personal information handled in the raffle?",
+        "intent":"PersonalInformationHandling",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Is my personal information protected during the raffle process?",
+        "intent":"PersonalInformationHandling",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"What measures are taken to ensure the security of my personal information during the raffle?",
+        "intent":"PersonalInformationHandling",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Do you share my personal information with third parties during the raffle?",
+        "intent":"PersonalInformationHandling",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any privacy policies governing the handling of personal information in the raffle?",
+        "intent":"PersonalInformationHandling",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I request access to my personal information collected during the raffle?",
+        "intent":"PersonalInformationHandling",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"How long is my personal information stored after the raffle ends?",
+        "intent":"PersonalInformationHandling",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any opt-out options for sharing personal information in the raffle?",
+        "intent":"PersonalInformationHandling",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Can I update or correct my personal information provided for the raffle?",
+        "intent":"PersonalInformationHandling",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    },
+    {
+        "text":"Are there any restrictions on the use of personal information collected during the raffle?",
+        "intent":"PersonalInformationHandling",
+        "entities":[
+            
+        ],
+        "traits":[
+            
+        ]
+    }
+]

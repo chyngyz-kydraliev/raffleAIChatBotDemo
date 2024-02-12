@@ -1,0 +1,1002 @@
+[
+    {
+       "text":"Can you give me a link to purchase tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey buddy, where can I find the link to buy tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Provide me with a link to purchase tickets, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I need a link for buying tickets. Can you help?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Buddy, I'm looking for a link to purchase tickets.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Where can I get a link for ticket purchase?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you provide me with a ticket purchase link?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey, where's the link to buy tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I need to purchase tickets. Where's the link?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Buddy, do you have a link for ticket purchase?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you share a link for purchasing tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I'm looking to buy tickets. Share the purchase link, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Provide me a link for ticket purchase, buddy.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I want to buy tickets. Give me the link, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey buddy, can you share the link to purchase tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Where can I find the link to buy tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you provide me with the ticket purchase link?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I'm searching for a link to buy tickets. Can you assist?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Buddy, I need the link for purchasing tickets.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey, share the link for ticket purchase, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Provide me with a link to buy tickets, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you give me the link to purchase tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I need a link to buy tickets. Can you help me out?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Buddy, where can I find the link to purchase tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Share the link for ticket purchase, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Where can I find the link for ticket purchase?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you provide me with a link for buying tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey buddy, I need a link for purchasing tickets.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Provide me with the link to buy tickets, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I'm looking for the link to purchase tickets. Can you help?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Buddy, do you have a link for ticket purchase?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you share the link to buy tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I need a link for purchasing tickets. Can you assist?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Where can I find the link to purchase tickets, buddy?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey buddy, provide me with the link for ticket purchase.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you give me the link to purchase tickets, please?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Buddy, I'm searching for a link to buy tickets.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I need the link for ticket purchase. Can you share?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey, where's the link for purchasing tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Share the link for buying tickets, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Provide me with the link for purchasing tickets, buddy.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I want to buy tickets. Give me the link, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey buddy, can you share the link for ticket purchase?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Where can I find the link to buy tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you provide me with the ticket purchase link?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I'm searching for a link to purchase tickets. Can you assist me?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Buddy, I need the link for purchasing tickets.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey, share the link for ticket purchase, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Provide me with a link to buy tickets, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you give me the link to purchase tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I need a link to buy tickets. Can you help me?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Buddy, where can I find the link for ticket purchase?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Share the link for ticket purchase, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Where can I find the link to purchase tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you provide me with a link for buying tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey buddy, I need a link for purchasing tickets.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Provide me with the link to buy tickets, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I'm looking for the link to purchase tickets. Can you help me?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Buddy, do you have a link for ticket purchase?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you share the link to buy tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I need a link for purchasing tickets. Can you assist me?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Where can I find the link to purchase tickets, buddy?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey buddy, provide me with the link for ticket purchase.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you give me the link to purchase tickets, please?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Buddy, I'm searching for a link to buy tickets.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I need the link for ticket purchase. Can you share it?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey, where's the link for purchasing tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Share the link for buying tickets, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Provide me with the link for purchasing tickets, buddy.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I want to buy tickets. Give me the link, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey buddy, can you share the link for ticket purchase?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Where can I find the link to buy tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you provide me with the ticket purchase link?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I'm searching for a link to purchase tickets. Can you help me out?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Buddy, I need the link for purchasing tickets.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey, share the link for ticket purchase, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Provide me with a link to buy tickets, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you give me the link to purchase tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I need a link to buy tickets. Can you help me?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Buddy, where can I find the link for ticket purchase?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Share the link for ticket purchase, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Where can I find the link to purchase tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you provide me with a link for buying tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey buddy, I need a link for purchasing tickets.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Provide me with the link to buy tickets, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I'm looking for the link to purchase tickets. Can you help me?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Buddy, do you have a link for ticket purchase?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you share the link to buy tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I need a link for purchasing tickets. Can you assist me?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Where can I find the link to purchase tickets, buddy?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey buddy, provide me with the link for ticket purchase.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Can you give me the link to purchase tickets, please?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Buddy, I'm searching for a link to buy tickets.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I need the link for ticket purchase. Can you share it?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey, where's the link for purchasing tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Share the link for buying tickets, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Provide me with the link for purchasing tickets, buddy.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"I want to buy tickets. Give me the link, please.",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Hey buddy, can you share the link for ticket purchase?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    },
+    {
+       "text":"Where can I find the link to buy tickets?",
+       "intent":"PurchaseTicketProcess",
+       "entities":[
+          
+       ],
+       "traits":[
+          
+       ]
+    }
+ ]
