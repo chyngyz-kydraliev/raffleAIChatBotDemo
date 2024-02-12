@@ -35,7 +35,7 @@ async def render_index(request):
 
 app.router.add_post("/chat", handle_message)
 app.router.add_options('/chat', handle_message)
-app.router.add_get('/', render_index)
+app.router.add_get('/app', render_index)
 
 
 if __name__ == "__main__":
