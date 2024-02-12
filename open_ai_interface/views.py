@@ -1,7 +1,5 @@
-from openai import AsyncOpenAI
 from open_ai_interface import settings
 from aiohttp import ClientSession
-import pdb
 
 
 headers = {
@@ -19,12 +17,6 @@ async def _send_request(url, method, data=None):
 
 
 async def send_message(prompt):
-    # response = await client.create_completion(
-    #     model=settings.MODEL,
-    #     messages=[{"role": "system", "content": prompt}],
-    #     max_tokens=1000,
-    # )
-
     response = await _send_request(
         "https://api.openai.com/v1/chat/completions",
         method="POST",
@@ -36,5 +28,6 @@ async def send_message(prompt):
             "max_tokens": 1000,
         }
     )
+    print(response)
 
     return response["choices"][0]["message"]["content"]

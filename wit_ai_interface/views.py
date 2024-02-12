@@ -1,4 +1,3 @@
-from wit import Wit
 from wit_ai_interface import settings
 from actions_on_user_intents.text_responses import TEXT_RESPONSES
 import aiohttp
