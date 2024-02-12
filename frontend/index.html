@@ -98,7 +98,7 @@
                     `<div class="chat-box__message chat-box__message--user">${message}</div>`
                 );
                 $.ajax({
-                    url: 'http://0.0.0.0:8000/chat',
+                    url: '/chat',
                     contentType: 'application/json',
                     method: 'POST',
                     data: JSON.stringify(payload_to_send),
