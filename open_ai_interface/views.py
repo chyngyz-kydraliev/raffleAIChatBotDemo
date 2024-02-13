@@ -25,7 +25,7 @@ async def send_message(prompt):
             "messages": [
                 {"role": "system", "content": prompt}
             ],
-            "max_tokens": 1000,
+            "max_tokens": 3500,
         }
     )
     print(response)

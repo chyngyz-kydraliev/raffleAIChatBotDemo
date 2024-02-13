@@ -1,7 +1,6 @@
-from wit_ai_interface.views import get_user_intents, get_according_response
 from open_ai_interface.views import send_message
-from open_ai_interface.prompts import GET_RESPONSE_PROMPT
-import asyncio
+from open_ai_interface.prompts import GET_RESPONSE_PROMPT, ADDITIONAL_PARTS_PROMPT
+from wit_ai_interface.views import get_user_intents, get_according_response
 from aiohttp import web
 import settings
 
@@ -21,10 +20,22 @@ async def handle_message(request):
 
     payload = await request.json()
     message_text = payload.get("message_text")
+    previous_message_bot = payload.get("previous_message_bot")
+    previous_message_user = payload.get("previous_message_user")
+
+
     intents = await get_user_intents(message_text)
     response_to_intent = await get_according_response(intents)
     prompt = GET_RESPONSE_PROMPT.format(message_text, response_to_intent)
+
+    if previous_message_bot and previous_message_user:
+        prompt += ADDITIONAL_PARTS_PROMPT.format(previous_message_user, previous_message_bot)
+
     generate_final_response = await send_message(prompt)
+
+    # final_prompt = prompt
+
+    # print(final_prompt)
     
     return web.json_response({"response": generate_final_response}, headers=response_headers)
 
@@ -32,10 +43,19 @@ async def handle_message(request):
 async def render_index(request):
     return web.FileResponse('frontend/index.html')
 
+async def get_image(request):
+    image_name = request.match_info.get('image')
+    if image_name:
+        return web.FileResponse(f'frontend/image/{image_name}')
+    else:
+        return web.Response(text='Image not found', status=404)
+
 
 app.router.add_post("/chat", handle_message)
 app.router.add_options('/chat', handle_message)
+app.router.add_get('/frontend/image/{image}', get_image)
 app.router.add_get('/app', render_index)
+
 
 
 if __name__ == "__main__":

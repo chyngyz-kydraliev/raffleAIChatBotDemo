@@ -42,6 +42,12 @@
             color: #6c757d;
             margin-left: 10px;
         }
+
+        .bot-avatar {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+        }
     </style>
 
     <div class="container">
@@ -52,8 +58,8 @@
                     <div class="card-body" id="chat-box">
                         <div class="chat-box" id="chat-box">
                             <div class="d-flex align-items-center">
-                                <i class="fas fa-robot mr-2"></i>
-                                <span class="bot-name">Raffle AI Consultant</span>
+                                <img src="frontend/image/single-slavic-women.jpg" alt="woman photo" class="bot-avatar mr-2">
+                                <span class="bot-name">Tatiana</span>
                             </div>
                             <div class="chat-box__message chat-box__message--bot">Hey, buddy, how I can help you?</div>
                         </div>
@@ -72,13 +78,15 @@
     <script>
         $(document).ready(function () {
 
-            let botMessageCounter = 1;
+            let messageCounter = 1;
+            let previousMessageBot = ""
+            let previousMessageUser = ""
 
-            function animateBotMessage(textToRender, botMessageCounter) {
+            function animateBotMessage(textToRender, messageCounter) {
                 let i = 0;
                 let interval = setInterval(function () {
                     if (i < textToRender.length) {
-                        $(`#message_${botMessageCounter}`).append(textToRender.charAt(i));
+                        $(`#bot_message_${messageCounter}`).append(textToRender.charAt(i));
                         i++;
                     } else {
                         clearInterval(interval);
@@ -90,12 +98,19 @@
                 event.preventDefault();
                 var message = $('#message').val();
                 console.log(`USER: ${message}`);
+
                 var payload_to_send = {
                     "message_text": message
                 }
+
+                if (previousMessageUser !== "" && previousMessageBot !== "") {
+                    payload_to_send["previous_message_user"] = previousMessageUser;
+                    payload_to_send["previous_message_bot"] = previousMessageBot;
+                }
+
                 console.log(payload_to_send)
                 $('#chat-box').append(
-                    `<div class="chat-box__message chat-box__message--user">${message}</div>`
+                    `<div class="chat-box__message chat-box__message--user" id="user_message_${messageCounter}">${message}</div>`
                 );
                 $.ajax({
                     url: '/chat',
@@ -108,14 +123,17 @@
                         $('#chat-box').append(
                             `
                                 <div class="d-flex align-items-center">
-                                    <i class="fas fa-robot mr-2"></i>
-                                    <span class="bot-name">Raffle AI Consultant</span>
+                                    <img src="frontend/image/single-slavic-women.jpg" alt="woman photo" class="bot-avatar mr-2">
+                                    <span class="bot-name">Tatiana</span>
                                 </div>
-                                <div class="chat-box__message chat-box__message--bot" id="message_${botMessageCounter}"></div>
+                                <div class="chat-box__message chat-box__message--bot" id="bot_message_${messageCounter}"></div>
                             `
                         )
-                        animateBotMessage(textToRender, botMessageCounter);
-                        botMessageCounter++;
+                        animateBotMessage(textToRender, messageCounter);
+                        messageCounter++;
+
+                        previousMessageUser = message;
+                        previousMessageBot = textToRender;
                     }
                 })
             })
