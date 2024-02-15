@@ -1,5 +1,6 @@
 import settings
 from actions_on_user_intents.text_responses import TEXT_RESPONSES
+from actions_on_user_intents.actions import ACTIONS
 import aiohttp
 
 headers = {
@@ -17,13 +18,22 @@ async def get_user_intents(message_text):
             intents = data.get("intents")
             return intents
 
-async def get_according_response(intents):
-    if not intents:
+async def get_according_response(intent):
+    if not intent:
         return "Chat bot was not able to understand the message"
-    
-    most_probable_intent = intents[0]["name"]
 
-    return TEXT_RESPONSES.get(most_probable_intent, "The bot is not trained to respond to that")
+    return TEXT_RESPONSES.get(intent, "The bot is not trained to respond to that")
+
+
+async def perform_according_action(intent):
+    if not intent:
+        return None
+    action = ACTIONS.get(intent)
+    
+    if callable(action):
+        return action()
+    else:
+        return action or None
 
 
 
